@@ -1,7 +1,7 @@
 # Russian 2nd Pacific Squadron Website
 
 This website provides historical information about the Russian 2nd Pacific Squadron and its role in the Battle of Tsushima. The website is built using only HTML and CSS, and consists of four main pages: a homepage, an Africa page, a Europe page, and a Battle of Tsushima page.
-<p><b>The site can be found <a href="https://kelv48.github.io/2nd-Russian-Pacific-Squadron-Website-/" target="_blank">here</a></b></p>
+<p><b>The site can be found <a href="https://kelv48.github.io/2nd-Russian-Pacific-Squadron-Website/" target="_blank">here</a></b></p>
 
 ## Project Structure
 
